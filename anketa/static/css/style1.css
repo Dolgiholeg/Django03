@@ -1,0 +1,13 @@
+a{
+    display: block;color: green;text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+body{
+    background-image: url("https://phonoteka.top/uploads/posts/2021-05/1620248183_40-phonoteka_org-p-nefrit-fon-40.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;
+    background-attachment: fixed;
+}

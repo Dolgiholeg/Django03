@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Форма 2</title>
+</head>
+<body>
+<h2>Имя животного: {{ name1 }} </h2>
+<h2>Порода животного: {{ breed }}</h2>
+<h2>Возраст животного: {{ age }}</h2>
+<h2>Цвет животного: {{ color }}</h2>
+<h2>Любимая еда животного: {{ food }}</h2>
+<img src="{% static foto %}" alt="фото" width="400">
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+h2{
+    font-family: Arial;
+}
+img{
+border: 10px solid black; border-style: double; border-radius: 50%;
+}
+.c {float: left; width: 40%;position: absolute
+}
+.a {float: right; width: 58%;height: 80px;background-color: black;
+    color: white;font-weight: bold;display: block
+}
+.b {float: right; width: 58%;height: 80px;background-color: white;
+    color: black;font-weight: bold;display: block
+}
